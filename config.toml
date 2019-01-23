@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "http://github.com/kpango"
+baseurl = "https://kpango.github.io"
 languageCode = "en-us"
 title = "Yusuke Kato Resume"
 theme = "hugo-orbit-theme"
