@@ -53,7 +53,7 @@ disable404 = true
         [[params.contact.list]]
         class = "website"
         icon = "fa-globe"
-        url = "//github.com/kpango"
+        url = "//portfolio.com"
         title = "portfoliosite.com"
 
         [[params.contact.list]]
