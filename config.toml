@@ -157,29 +157,30 @@ disable404 = true
         intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
 
         [[params.projects.list]]
-        title = "Hugrid"
-        url = "https://github.com/aerohub/hugrid"
-        tagline = "Grid theme for Hugo. It's a kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on"
+        title = "Ultra fast logging library glg"
+        url = "https://github.com/kpango/glg"
+        tagline = "glg is faster than Go standard logger and provides leveled logging and colorized output option.\n\nGlg is used by many Yahoo Japan 's Go language platforms."
 
         [[params.projects.list]]
-        title = "Simple FAQ Theme for Hugo"
-        url = "https://github.com/aerohub/hugo-faq-theme"
-        tagline = "Simple FAQ Theme for Hugo. You may use this theme for building very simple FAQs or note lists."
+        title = "Ultra fast cache library gache"
+        url = "https://github.com/kpango/gache"
+        tagline = "gache is ultra fast lock-free cache library using concurrent map & xxhash algorithm.\n\nGache is used by many Yahoo Japan 's Go language platforms."
 
         [[params.projects.list]]
-        title = "Hugo Identity"
-        url = "https://github.com/aerohub/hugo-identity-theme"
-        tagline = "Little profile/card-style template for Hugo."
+        title = "Garm"
+        url = "https://github.com/yahoojapan/garm"
+        tagline = "Garm is API for a Kubernetes authorization webhook that integrates with Athenz for access checks. It allows flexible resource mapping from K8s resources to Athenz ones.\n\nYahoo Japan uses Garm and Kubernetes AccessReview Webhook to integrate and manage hundreds of large Kubernetes clusters based on the concept of SSoT."
 
         [[params.projects.list]]
-        title = "Orbit"
-        url = "https://github.com/aerohub/hugo-orbit-theme"
-        tagline = "Hugo Resume/CV Theme for Developers."
+        title = "NGTD"
+        url = "https://github.com/yahoojapan/ngtd"
+        tagline = "NGTD is a VectorDatabase that provides approximate neighborhood search of dense vectors via REST / gRPC and is used as a core function of similar image search and recommendation engine of Yahoo Japan."
 
         [[params.projects.list]]
-        title = "Me"
-        url = "https://github.com/aerohub/hugo-me-theme"
-        tagline = "A simple responsive Hugo theme for personal site."
+        title = "gongt"
+        url = "https://github.com/yahoojapan/gongt"
+        tagline = "gongt is golang sdk for ngt core"
+ 
 
     # Skills section
     [params.skills]
