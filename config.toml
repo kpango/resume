@@ -188,27 +188,39 @@ disable404 = true
         title = "Skills & Proficiency"
 
         [[params.skills.list]]
-        skill = "Python & Django"
-        level = "98%"
+        skill = "Golang"
+        level = "100%"
 
         [[params.skills.list]]
-        skill = "Javascript & jQuery"
-        level = "98%"
+        skill = "Java"
+        level = "90%"
 
         [[params.skills.list]]
-        skill = "Angular"
-        level = "95%"
+        skill = "PHP"
+        level = "85%"
 
         [[params.skills.list]]
-        skill = "HTML5 & CSS"
-        level = "95%"
+        skill = "Kotlin"
+        level = "80%"
 
         [[params.skills.list]]
-        skill = "Ruby on Rails"
+        skill = "C/C++"
         level = "75%"
 
         [[params.skills.list]]
-        skill = "Sketch & Photoshop"
+        skill = "Nim"
+        level = "60%"
+
+        [[params.skills.list]]
+        skill = "JavaScript & Vue.js (Nuxt.js)"
+        level = "50%"
+
+        [[params.skills.list]]
+        skill = "Kubernetes"
+        level = "80%"
+
+        [[params.skills.list]]
+        skill = "OpenStack"
         level = "60%"
 
     # Footer section
