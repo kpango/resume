@@ -157,12 +157,12 @@ disable404 = true
         intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
 
         [[params.projects.list]]
-        title = "Ultra fast logging library glg"
+        title = "Glg"
         url = "https://github.com/kpango/glg"
         tagline = "glg is faster than Go standard logger and provides leveled logging and colorized output option.\n\nGlg is used by many Yahoo Japan 's Go language platforms."
 
         [[params.projects.list]]
-        title = "Ultra fast cache library gache"
+        title = "Gache"
         url = "https://github.com/kpango/gache"
         tagline = "gache is ultra fast lock-free cache library using concurrent map & xxhash algorithm.\n\nGache is used by many Yahoo Japan 's Go language platforms."
 
@@ -179,7 +179,7 @@ disable404 = true
         [[params.projects.list]]
         title = "gongt"
         url = "https://github.com/yahoojapan/gongt"
-        tagline = "gongt is golang sdk for ngt core"
+        tagline = "Gongt is golang sdk for ngt core"
  
 
     # Skills section
