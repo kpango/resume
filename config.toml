@@ -1,6 +1,6 @@
 # Page settings
 
-BaseURL = "https://kpango.github.io/"
+BaseURL = "https://kpango.com/"
 languageCode = "en-us"
 Title = "Yusuke Kato Resume"
 theme = "hugo-orbit-theme"
@@ -53,8 +53,8 @@ disable404 = true
         [[params.contact.list]]
         class = "website"
         icon = "fa-globe"
-        url = "//kpango.github.io"
-        title = "kpango.github.io"
+        url = "//kpango.com"
+        title = "kpango.com"
 
         [[params.contact.list]]
         class = "linkedin"
