@@ -2,7 +2,7 @@
 
 BaseURL = "https://kpango.com/"
 languageCode = "en-us"
-Title = "Yusuke Kato Resume"
+title = "Yusuke Kato Resume"
 theme = "hugo-orbit-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
