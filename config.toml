@@ -204,31 +204,25 @@ disable404 = true
 # 受賞日2017年1月  授与組織PwC
 
         [[params.awards.list]]
-        title = "Championship award at PwC's Technology Hackathon 2017"
-        url = ""
-        tagline = ""
-# 賞の名称Technical award at HackU
-# 受賞日2017年1月  授与組織Yahoo! JAPAN
-
-        [[params.awards.list]]
-        title = "Championship award at PwC's Technology Hackathon 2017"
-        url = ""
-        tagline = ""
-# 賞の説明Technical award at HackU Tokai 2014
-
-        [[params.awards.list]]
-        title = "Championship award at PwC's Technology Hackathon 2017"
+        title = "Championship award at SB Cloud Hackathon 2016"
         url = ""
         tagline = ""
 # 賞の名称Championship award at SB Cloud Hackathon 2016
 # 受賞日2016年7月  授与組織SoftBank
 
         [[params.awards.list]]
-        title = "Championship award at PwC's Technology Hackathon 2017"
+        title = "Second place at AngelHack JP 2016"
         url = ""
         tagline = ""
 # 賞の名称Second place at AngelHack JP 2016
 # 受賞日2016年5月  授与組織AngelHack
+
+        [[params.awards.list]]
+        title = "Technical award at HackU from Yahoo! Japan 2014"
+        url = ""
+        tagline = ""
+# 賞の名称Technical award at HackU
+# 受賞日2017年1月  授与組織Yahoo! JAPAN
 
 
     # Skills section
