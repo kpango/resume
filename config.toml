@@ -126,8 +126,7 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "**Summarise your career here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu."
-
+        summary = "**Yahoo Japan Corporation**\t\t\t\t\t***kubernetes as a service authorization platform engineering & chief architect***\n\nI developed\n\n***Approximate neighborhood graph tree vector search engine NGTD/Gongt engineering & quality engineer***\n\nI developed\n\n***Yahoo online EBook store frontend engineering***\n\nI developed\n\n***Inhouse A/B testing platform engineering & chief architect***\n\nI developed\n\n***Yahoo premium member advertising platform engineering***\n\nI developed\n\n yahoo auction Android application engineering at Yahoo! JAPAN .  yahoo mail backend engineering at Yahoo! JAPAN (This is my first job as a regular staff ).  yahoo login platform backend engineering at Yahoo! JAPAN **softbank corporation**\t\t\t\t\t***Multi service access node network engineering at internship.*** **R-Infinity Corporation**\t\t\t\t\t***adults game backend at internship***\n **Kojima Electronics Corporation** ***EC site backend engineering at internship.***"
     # Experiences section
     [params.experiences]
         enable = true
@@ -189,6 +188,49 @@ disable404 = true
         url = "https://github.com/heptio/gimbal"
         tagline = "Heptio Gimbal is an ingress load balancing platform capable of routing traffic to multiple Kubernetes and OpenStack clusters. Built by Heptio in partnership with Actapio & Yahoo Japan"
 
+    # Projects section
+    [params.awards]
+        enable = true
+        icon = "fa-trophy"
+        title = "Awards"
+        intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
+
+        [[params.awards.list]]
+        title = "Championship award at PwC's Technology Hackathon 2017"
+        url = ""
+        tagline = ""
+
+# Championship award at PwC's Technology Hackathon 2017
+# 受賞日2017年1月  授与組織PwC
+
+        [[params.awards.list]]
+        title = "Championship award at PwC's Technology Hackathon 2017"
+        url = ""
+        tagline = ""
+# 賞の名称Technical award at HackU
+# 受賞日2017年1月  授与組織Yahoo! JAPAN
+
+        [[params.awards.list]]
+        title = "Championship award at PwC's Technology Hackathon 2017"
+        url = ""
+        tagline = ""
+# 賞の説明Technical award at HackU Tokai 2014
+
+        [[params.awards.list]]
+        title = "Championship award at PwC's Technology Hackathon 2017"
+        url = ""
+        tagline = ""
+# 賞の名称Championship award at SB Cloud Hackathon 2016
+# 受賞日2016年7月  授与組織SoftBank
+
+        [[params.awards.list]]
+        title = "Championship award at PwC's Technology Hackathon 2017"
+        url = ""
+        tagline = ""
+# 賞の名称Second place at AngelHack JP 2016
+# 受賞日2016年5月  授与組織AngelHack
+
+
     # Skills section
     [params.skills]
         enable = true
@@ -237,7 +279,7 @@ disable404 = true
     # Please keep the original attribution link when using for your own project.
     # If you'd like to use the template without the attribution,
     # you can check out other license options via template author's website: themes.3rdwavemedia.com
-    # 
+    #projectprojectprojectprojectssss 
     # As for Hugo port you may rewrite the "Ported for..." line with setting your name below.
 
     [params.footer]
