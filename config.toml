@@ -126,7 +126,7 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "### Yahoo Japan Corporation\n\n\n- ***kubernetes as a service authorization platform engineering & chief architect***\n\n  I developed\n\n- ***Approximate neighborhood graph tree vector search engine NGTD/Gongt engineering & quality engineer***\n\n  I developed\n\n- ***Yahoo online EBook store frontend engineering***\n\n  I developed\n\n- ***Inhouse A/B testing platform engineering & chief architect***\n\n  I developed\n\n- ***Yahoo premium member advertising platform engineering & chief architect***\n\n  I developed\n\n- ***Yahoo auction Android application engineering (Kotlin/Java)*** \n\n  I developed\n\n- ***Yahoo login platform backend engineering***\n\n  I developed\n\n- ***Yahoo mail backend engineering***\n\n\n\n**Softbank corporation**\n\n- ***Multi service access node network engineering at internship.***\n\n  I developed\n\n\n\n**R-Infinity Corporation**\n\n- ***adults game backend at internship***\n\n\n\n**Kojima Electronics Corporation**\n\n- ***EC site backend engineering at internship.***"
+        summary = "### Yahoo Japan Corporation\n\n\n- ***kubernetes as a service authorization platform engineering & chief architect***\t2018/4~now\n\n  I have developed the Kubernetes Authorization Platform Garm which can integrate management and control access of several hundred Kubernetes clusters in the company based on the concept of SSoT.  Garm is designed and developed by me, and now it is running on all Kubernetes clusters in Yahoo! Japan.  Garm is designed to work with other Kubernetes as a Service, and it is made with Golang. \n\n- ***Approximate neighborhood graph tree vector search engine NGTD/Gongt engineering & quality engineer***\n\n  I developed\n\n- ***Yahoo online EBook store frontend engineering***\n\n  I developed\n\n- ***Inhouse A/B testing platform engineering & chief architect***\n\n  I developed\n\n- ***Yahoo premium member advertising platform engineering & chief architect***\n\n  I developed\n\n- ***Yahoo auction Android application engineering (Kotlin/Java)*** \n\n  I developed\n\n- ***Yahoo login platform backend engineering***\n\n  I developed\n\n- ***Yahoo mail backend engineering***\n\n\n\n**Softbank corporation**\n\n- ***Multi service access node network engineering at internship.***\n\n  I developed\n\n\n\n**R-Infinity Corporation**\n\n- ***adults game backend at internship***\n\n\n\n**Kojima Electronics Corporation**\n\n- ***EC site backend engineering at internship.***"
     # Experiences section
     [params.experiences]
         enable = true
@@ -197,30 +197,30 @@ disable404 = true
 
         [[params.awards.list]]
         title = "Championship award at PwC's Technology Hackathon 2017"
-        url = ""
-        tagline = ""
+        url = "https://www.facebook.com/PwCJapan/posts/1234088506626798"
+        tagline = "Our team has developed a sharing time SNS called \"SMILE MILE\". \"SMILE MILE\" is an application that can find people who act with me at events such as Tokyo 2020. Finally, when two people take pictures, we analyze facial images by machine learning, & evaluate \"degree of smile\", and users can stock \"smile miles\"."
 
 # Championship award at PwC's Technology Hackathon 2017
 # 受賞日2017年1月  授与組織PwC
 
         [[params.awards.list]]
         title = "Championship award at SB Cloud Hackathon 2016"
-        url = ""
-        tagline = ""
+        url = "https://www.facebook.com/SBCloud/photos/a.1092206347516664/1108994632504502/?type=1&theater"
+        tagline = "Our team has developed a medical passport such as medical history, etc. that can be used in the world, It called \"Medipass\".  As a core function, I collects a lot of medicine data and classifies it automatically by language processing, hears symptoms using VoiceUI from a smartphone such as Android, then automatically send the diagnostic result to the appropriate hospital in the neighborhood"
 # 賞の名称Championship award at SB Cloud Hackathon 2016
 # 受賞日2016年7月  授与組織SoftBank
 
         [[params.awards.list]]
         title = "Second place at AngelHack JP 2016"
-        url = ""
-        tagline = ""
+        url = "https://givery.co.jp/press/821/"
+        tagline = "Our team has developed an automatic photo organizing application. It is an application that makes it easy to see the album by analyzing the image of the photo and performing appropriate foldering. For core functions, we perform machine learning and Vector Search using NGT, and we conduct similarity comparison via API."
 # 賞の名称Second place at AngelHack JP 2016
 # 受賞日2016年5月  授与組織AngelHack
 
         [[params.awards.list]]
         title = "Technical award at HackU from Yahoo! Japan 2014"
-        url = ""
-        tagline = ""
+        url = "https://hacku.yahoo.co.jp/tokai2014/"
+        tagline = "I participated in Hackathon for students sponsored by Yahoo Japan and received technology prize. Our team has developed an SNS using bidirectional miscommunication called Ripple using Android and bluetooth technology"
 # 賞の名称Technical award at HackU
 # 受賞日2017年1月  授与組織Yahoo! JAPAN
 
