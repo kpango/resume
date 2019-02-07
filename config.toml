@@ -3,7 +3,7 @@
 BaseURL = "https://kpango.com/"
 languageCode = "en-us"
 theme = "hugo-orbit-theme"
-googleAnalytics = "UA-XXXXXXX-Y"
+googleAnalytics = "UA-48533437-1"
 
 # Do not build files for websites. Need them? Set to false
 disableRSS = true
