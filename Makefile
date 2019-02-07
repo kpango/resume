@@ -1,5 +1,9 @@
 .PHONY: run deploy submod
 
+all: deploy subup
+	git add -A;git commit -m fix;git push
+
+
 run:
 	hugo server
 
