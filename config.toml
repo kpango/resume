@@ -182,7 +182,7 @@ disable404 = true
         [[params.projects.list]]
         title = "Garm"
         url = "https://github.com/yahoojapan/garm"
-        tagline = "Garm is API for a Kubernetes authorization webhook that integrates with Athenz for access checks. It allows flexible resource mapping from K8s resources to Athenz ones.\n\nYahoo Japan uses Garm and Kubernetes AccessReview Webhook to integrate and manage hundreds of large Kubernetes clusters based on the concept of SSoT."
+        tagline = "Garm is API for a Kubernetes authorization webhook that integrates with Athenz for access checks. It allows flexible resource mapping from K8s resources to Athenz ones.\nYahoo Japan uses Garm and Kubernetes AccessReview Webhook to integrate and manage hundreds of large Kubernetes clusters based on the concept of SSoT."
 
         [[params.projects.list]]
         title = "NGTD"
