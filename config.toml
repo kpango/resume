@@ -23,7 +23,6 @@ disable404 = true
     # "styles.css", "styles-2.css", "styles-3.css", "styles-4.css", "styles-5.css", "styles-6.css"
     # are available. Also the source LESS files are included so
     # it’s quick and easy to change the styling and colour scheme.
-
     styles = "styles-6.css"
 
 # Sidebar sections
@@ -140,13 +139,25 @@ disable404 = true
         details = "- ***Kubernetes as a Service Authorization Platform Garm  \nEngineer & Chief Architect***\t2018/4~present\n\n  - I have developed the Kubernetes Authorization Platform Garm which can integrate management and control access of several hundred Kubernetes clusters in Yahoo! Japan based on the concept of SSoT.  I designed and developed Garm which is now running on all Kubernetes clusters in Yahoo! Japan.  Garm is designed to work with other Kubernetes as a Service, and it is written in golang. \n\n- ***Approximate Neighborhood Graph Tree Vector Search Engine NGTD/Gongt  \n Engineer & Quality Engineer***\t2017/10~2018/4\n\n  - I developed a general-purpose dense vector search engine \"NGTD\" which is used in a wide range of fields such as similar image retrieval and advertisement recommendation in Yahoo! Japan.  NGTD is written in golang, you can register, search and delete vectors via the REST API and gRPC and you can quickly search for KNN vectors.\n\n- ***Yahoo Online EBook Store   \nFrontend Engineer***\t2017/12~2018/2\n\n  - As a part of a large-scale project for EBook Japan(a subsidiary of Yahoo! Japan), I developed the web frontend of the ebookstore.  By mainly writing in vue.js, we developed the appropriate component based on atomic design.\n\n- ***Inhouse A/B Testing Platform   \nEngineer & Chief Architect***\t2017/10~2018/2\n\n  - I designed and developed a platform for A/B testing which is still used internally by Yahoo! Japan today.  This server architecture that I designed can withstand a minimum of 80000 req/sec using micro service architecture.   \nThe software is written in Golang and running on CloudFundry.  For the internal algorithm, we provided a high-speed and flexible A / B testing platform for users using [murmur3](https://github.com/kpango/murmur3) .\n\n- ***Yahoo Premium Member Advertising Platform   \nEngineer & Chief Architect***\t2017/5~2017/7\n\n  - I have developed and designed an advertising platform for Yahoo! Japan's premium members.  In the advertisement distribution, I was required to construct the plafrom with low-latency and high-speed delivery algorithm.  Also we a lock-free Concurrent Map for speed. I created the entire architect and microcomponents from scratch\n\n- ***Yahoo Auction   \nAndroid Engineer (Kotlin/Java)***\t2017/3~2017/9\n\n  - I joined Yahoo! Japan's auction team and worked on a large-scale renovation of the Android application.  I was responsible for rewriting Java to Kotlin and made changes to the applicaton which increased the number of daily active users.\n\n- ***Yahoo Login Platform   \nBackend Engineer***\t2017/2~2017/3\n\n  - On Yahoo! Japan's login platform, I was in charge of adding a function of a unique cookie algorithm to manage the ID of User.  Since the library was written in C ++ and it was an old source, we added a function while doing refactor.\n\n- ***Yahoo Mail   \nBackend Engineering***\t2016/4~2017/1\n\n  - Yahoo! Mail's backend engineering is the first project I joined SWAT.  \nThere, he was developing / localizing the storage layer of the Mail platform.  Inside the team, we also worked such as towing Scrum in addition to development tasks."
 
         [[params.jobs.list]]
-        position = "Access Node Network Engineer"
+        position = "Go Language Technical Support Team"
+        dates = "2017 - Present"
+        company = "Yahoo Japan Corporation"
+        details = "The Go language technical support team develops internal Go language libraries, creates model cases, maintains CI / CD for Go, and so on.  \nWe regularly held study sessions to instruct the Go language.  \nMore than 200 in-house engineers came to the largest study meeting among me, and attendees can concentrate and learn golang from beginner to intermediate in about 4 hours."
+
+        [[params.jobs.list]]
+        position = "HR Strategy"
+        dates = "2017 - 2018"
+        company = "Yahoo Japan Corporation"
+        details = "In parallel with SWAT, I belonged to the work department of talent strategy.  \nI was in a position to advise the HR team on what kind of engineer are needed for Yahoo! Japan from the on-site engineer's point of view and trend technology  point of view "
+
+        [[params.jobs.list]]
+        position = "Access Node Network Engineer Intern"
         dates = "2014 - 2015"
         company = "Softbank"
         details = "**Describe your role here**"
 
         [[params.jobs.list]]
-        position = "EC Site Backend Engineer"
+        position = "EC Site Backend Engineer Intern"
         dates = "2013 - 2014"
         company = "Nojima Corporation"
         details = "**Describe your role here**"
