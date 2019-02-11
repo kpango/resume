@@ -125,7 +125,7 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "I'm responsible for numerous leads in the development, design and technology of a wide range of technologies at Yahoo Japan's SWAT.  \nMy primary strength is the versatility of technology absorption and technology.  \nEspecially I'm proficient in golang.  In areas other than programming languages, there is a wide range of knowledge from infrastructure such as Kubernetes, OpenStack, to vector search engines like NGT.  \nEven if I am in charge of a department that uses technology I do not know as SWAT, I often have a leadership that can lead a team in about a week."
+        summary = "I have numerous responsibilities regarding the development and system architecture using a wide range of technologies at Yahoo Japan’s SWAT.  \nMy biggest strength is that I'm a fast learner and can easily use new technology. Even if I get assigned to a new project and have to use unfamiliar technology, I can take over the leadership of this project in less than one week.  \nI’m especially proficient in golang and besides a lot of experience with different programming languages, I also have a profound knowledge starting from infrastructures such as Kubernetes, OpenStack, to vector search engines like NGT."
     # Experiences section
     [params.experiences]
         enable = true
@@ -142,25 +142,25 @@ disable404 = true
         position = "Go Language Technical Support Team"
         dates = "2017 - Present"
         company = "Yahoo Japan Corporation"
-        details = "The Go language technical support team develops internal Go language libraries, creates model cases, maintains CI / CD for Go, and so on.  \nWe regularly held study sessions to instruct the Go language.  \nMore than 200 in-house engineers came to the largest study meeting among me, and attendees can concentrate and learn golang from beginner to intermediate in about 4 hours."
+        details = "The Go language technical support team develops internal Go language libraries, creates model cases, maintains CI / CD for Go, and so on.  \nI regularly lead study sessions to teach the other engineers about the Go language. In these workshops all attendees from beginners to intermediates can focus on learning golong or getting better at it. To the largest study meeting came more than 200 in-house engineers including me."
 
         [[params.jobs.list]]
         position = "HR Strategy"
         dates = "2017 - 2018"
         company = "Yahoo Japan Corporation"
-        details = "In parallel with SWAT, I belonged to the work department of talent strategy.  \nI was in a position to advise the HR team on what kind of engineer are needed for Yahoo! Japan from the on-site engineer's point of view and trend technology  point of view "
+        details = "In parallel to SWAT, I also belonged to the work department of talent strategy.  \nI was in charge of advising the HR team on what kind of engineers are needed for Yahoo! Japan from the on-site engineer’s point of view and trend technology point of view."
 
         [[params.jobs.list]]
         position = "Access Node Network Engineer Intern"
         dates = "2014/9 - 2014/11"
         company = "Softbank"
-        details = "I was in charge of the deployment design and network construction design of the multiservice access node nationwide on the access node team, developed the deployment prediction software by the feedback algorithm and applied it to the reinforcement of the equipment of the ring network and construction."
+        details = "I was in charge of the deployment design and network construction design of the multi-service access node nationwide on the access node team, and developed the deployment prediction software creating my own feedback algorithm. This algorithm can predict the number of servers so that the equipment of the ring network and construction can be adjusted accordingly."
 
         [[params.jobs.list]]
         position = "EC Site Backend Engineer Intern"
         dates = "2013 - 2014"
         company = "Nojima Corporation"
-        details = "As an internship, I experienced the development of EC site backend system, in-house Q & A system and PoS system and also experienced internship team leader in Q & A system."
+        details = "As an internship, I gained experience in the development of EC site back-end systems, in-house Q&A systems and PoS systems. Furthermore, I also got the opportunity to be the internship team leader for the Q&A system and learnt to lead a team."
 
     # Projects section
     [params.projects]
