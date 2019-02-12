@@ -142,7 +142,7 @@ disable404 = true
         position = "Go Language Technical Support Team"
         dates = "2017 - Present"
         company = "Yahoo Japan Corporation"
-        details = "The Go language technical support team develops internal Go language libraries, creates model cases, maintains CI / CD for Go, and so on.  \nI regularly lead study sessions to teach the other engineers about the Go language. In these workshops all attendees from beginners to intermediates can focus on learning golong or getting better at it. To the largest study meeting came more than 200 in-house engineers including me."
+        details = "The Go language technical support team develops internal Go language libraries, creates model cases, maintains CI / CD for Go, and so on.  \nI regularly lead study sessions to teach the other engineers about the Go language. In these workshops all attendees from beginners to intermediates can focus on learning golang or getting better at it. To the largest study meeting came more than 200 in-house engineers including me."
 
         [[params.jobs.list]]
         position = "HR Strategy"
