@@ -102,6 +102,9 @@ disable404 = true
         title = "Interests"
 
         [[params.interests.list]]
+        interest = "Building a Network"
+
+        [[params.interests.list]]
         interest = "Programming"
 
         [[params.interests.list]]
