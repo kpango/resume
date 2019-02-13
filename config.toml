@@ -41,7 +41,7 @@ disable404 = true
         class = "email"
         icon = "fa-envelope"
         url = "mailto: i.can.feel.gravity@gmail.com"
-        title = "kpango@gmail.com"
+        title = "i.can.feel.gravity@gmail.com"
 
         [[params.contact.list]]
         class = "phone"
