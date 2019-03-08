@@ -1,0 +1,1 @@
+NGTD is a VectorDatabase that provides approximate neighborhood search of dense vectors via REST / gRPC and is used as a core function of similar image search and recommendation engine of Yahoo Japan.

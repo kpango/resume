@@ -1,0 +1,1 @@
+I was in charge of the deployment design and network construction design of the multi-service access node nationwide on the access node team, and developed the deployment prediction software creating my own feedback algorithm. This algorithm can predict the number of servers so that the equipment of the ring network and construction can be adjusted accordingly.

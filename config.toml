@@ -128,7 +128,8 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "I have numerous responsibilities regarding the development and system architecture using a wide range of technologies at Yahoo Japan’s SWAT.  \nMy biggest strength is that I'm a fast learner and can easily use new technology. Even if I get assigned to a new project and have to use unfamiliar technology, I can take over the leadership of this project in less than one week.  \nI’m especially proficient in golang and besides a lot of experience with different programming languages, I also have a profound knowledge starting from infrastructures such as Kubernetes, OpenStack, to vector search engines like NGT."
+        summary = "summary.md"
+
     # Experiences section
     [params.experiences]
         enable = true
@@ -139,31 +140,31 @@ disable404 = true
         position = "SWAT (Senior Lead Developer)"
         dates = "2016 - Present"
         company = "Yahoo Japan Corporation"
-        details = "SWAT is a task force team gathering in-house elite engineers. SWAT participates in various projects within the company because it is a team that was established to solve various internal technical problems.  \nThe details of the projects are shown below.  \n\n- ***Kubernetes as a Service Authorization Platform Garm  \nEngineer & Chief Architect***\t2018/4~present  \nI have developed the Kubernetes Authorization Platform Garm which can integrate management and control access of several hundred Kubernetes clusters in Yahoo! Japan based on the concept of SSoT.  \nI designed and developed Garm which is now running on all Kubernetes clusters in Yahoo! Japan.  Garm is designed to work with other Kubernetes as a Service, and it is written in golang. \n\n- ***Approximate Neighborhood Graph Tree Vector Search Engine NGTD/Gongt  \n Engineer & Quality Engineer***\t2017/10~2018/4  \nI developed a general-purpose dense vector search engine \"NGTD\" which is used in a wide range of fields such as similar image retrieval and advertisement recommendation in Yahoo! Japan.  \nNGTD is written in golang, you can register, search and delete vectors via the REST API and gRPC and you can quickly search for KNN vectors.\n\n- ***Yahoo Online EBook Store   \nFrontend Engineer***\t2017/12~2018/2  \nAs a part of a large-scale project for EBook Japan(a subsidiary of Yahoo! Japan), I developed the web frontend of the ebookstore.  By mainly writing in vue.js, we developed the appropriate component based on atomic design.\n\n- ***Inhouse A/B Testing Platform   \nEngineer & Chief Architect***\t2017/10~2018/2  \nI designed and developed a platform for A/B testing which is still used internally by Yahoo! Japan today.  This server architecture that I designed can withstand a minimum of 80000 req/sec using micro service architecture.   \nThe software is written in Golang and running on CloudFundry.  For the internal algorithm, we provided a high-speed and flexible A / B testing platform for users using [murmur3](https://github.com/kpango/murmur3) .\n\n- ***Yahoo Premium Member Advertising Platform   \nEngineer & Chief Architect***\t2017/5~2017/7  \nI have developed and designed an advertising platform for Yahoo! Japan's premium members.  \nIn the advertisement distribution, I was required to construct the plafrom with low-latency and high-speed delivery algorithm.  Also we a lock-free Concurrent Map for speed. I created the entire architect and microcomponents from scratch\n\n- ***Yahoo Auction   \nAndroid Engineer (Kotlin/Java)***\t2017/3~2017/9  \nI joined Yahoo! Japan's auction team and worked on a large-scale renovation of the Android application.  I was responsible for rewriting Java to Kotlin and made changes to the applicaton which increased the number of daily active users.\n\n- ***Yahoo User Identifier Platform   \nBackend Engineer***\t2017/2~2017/3  \nOn Yahoo! Japan's user identifier platform, I was in charge of adding a function of a unique cookie algorithm to manage the ID of User.  Since the library was written in C ++ and it was an old source, we added a function while doing refactor.\n\n- ***Yahoo Mail   \nBackend Engineering***\t2016/4~2017/1  \nYahoo! Mail's backend engineering is the first project I joined SWAT.  \nThere, he was developing / localizing the storage layer of the Mail platform.  Inside the team, we also worked such as towing Scrum in addition to development tasks."
+        details = "experiences/yahoo-swat.md"
 
         [[params.jobs.list]]
         position = "Go Language Technical Support Team"
         dates = "2017 - Present"
         company = "Yahoo Japan Corporation"
-        details = "The Go language technical support team develops internal Go language libraries, creates model cases, maintains CI / CD for Go, and so on.  \nI regularly lead study sessions to teach the other engineers about the Go language. In these workshops all attendees from beginners to intermediates can focus on learning golang or getting better at it. To the largest study meeting came more than 200 in-house engineers including me."
+        details = "experiences/yahoo-go.md"
 
         [[params.jobs.list]]
         position = "HR Strategy"
         dates = "2017 - 2018"
         company = "Yahoo Japan Corporation"
-        details = "In parallel to SWAT, I also belonged to the work department of talent strategy.  \nI was in charge of advising the HR team on what kind of engineers are needed for Yahoo! Japan from the on-site engineer’s point of view and trend technology point of view."
+        details = "experiences/yahoo-hr.md"
 
         [[params.jobs.list]]
         position = "Access Node Network Engineer Intern"
         dates = "2014/9 - 2014/11"
         company = "Softbank"
-        details = "I was in charge of the deployment design and network construction design of the multi-service access node nationwide on the access node team, and developed the deployment prediction software creating my own feedback algorithm. This algorithm can predict the number of servers so that the equipment of the ring network and construction can be adjusted accordingly."
+        details = "experiences/softbank.md"
 
         [[params.jobs.list]]
         position = "EC Site Backend Engineer Intern"
         dates = "2013 - 2014"
         company = "Nojima Corporation"
-        details = "As an internship, I gained experience in the development of EC site back-end systems, in-house Q&A systems and PoS systems. Furthermore, I also got the opportunity to be the internship team leader for the Q&A system and learnt to lead a team."
+        details = "experiences/nojima.md"
 
     # Projects section
     [params.projects]
@@ -175,32 +176,32 @@ disable404 = true
         [[params.projects.list]]
         title = "Glg"
         url = "https://github.com/kpango/glg"
-        tagline = "glg is faster than Go standard logger and provides leveled logging and colorized output option.\n\nGlg is used by many Yahoo Japan 's Go language platforms."
+        tagline = "projects/glg.md"
 
         [[params.projects.list]]
         title = "Gache"
         url = "https://github.com/kpango/gache"
-        tagline = "gache is ultra fast lock-free cache library using concurrent map & xxhash algorithm.\n\nGache is used by many Yahoo Japan 's Go language platforms."
+        tagline = "projects/gache.md"
 
         [[params.projects.list]]
         title = "Garm"
         url = "https://github.com/yahoojapan/garm"
-        tagline = "Garm is API for a Kubernetes authorization webhook that integrates with Athenz for access checks. It allows flexible resource mapping from K8s resources to Athenz ones.\nYahoo Japan uses Garm and Kubernetes AccessReview Webhook to integrate and manage hundreds of large Kubernetes clusters based on the concept of SSoT."
+        tagline = "projects/garm.md"
 
         [[params.projects.list]]
         title = "NGTD"
         url = "https://github.com/yahoojapan/ngtd"
-        tagline = "NGTD is a VectorDatabase that provides approximate neighborhood search of dense vectors via REST / gRPC and is used as a core function of similar image search and recommendation engine of Yahoo Japan."
+        tagline = "projects/ngtd.md"
 
         [[params.projects.list]]
         title = "gongt"
         url = "https://github.com/yahoojapan/gongt"
-        tagline = "Gongt is golang sdk for ngt core"
+        tagline = "projects/ngtd.md"
 
         [[params.projects.list]]
         title = "Gimbal"
         url = "https://github.com/heptio/gimbal"
-        tagline = "Heptio Gimbal is an ingress load balancing platform capable of routing traffic to multiple Kubernetes and OpenStack clusters. Built by Heptio in partnership with Actapio & Yahoo Japan"
+        tagline = "projects/gimbal.md"
 
     # Projects section
     [params.awards]
@@ -212,29 +213,28 @@ disable404 = true
         [[params.awards.list]]
         title = "Championship award at PwC's Technology Hackathon 2017"
         url = "https://www.facebook.com/PwCJapan/posts/1234088506626798"
-        tagline = "Our team has developed a sharing time SNS called \"SMILE MILE\". \"SMILE MILE\" is an application that can find people who act with me at events such as Tokyo 2020. Finally, when two people take pictures, we analyze facial images by machine learning, & evaluate \"degree of smile\", and users can stock \"smile miles\"."
-
+        tagline = "awards/pwc-2017.md"
 # Championship award at PwC's Technology Hackathon 2017
 # 受賞日2017年1月  授与組織PwC
 
         [[params.awards.list]]
         title = "Championship award at SB Cloud Hackathon 2016"
         url = "https://www.facebook.com/SBCloud/photos/a.1092206347516664/1108994632504502/?type=1&theater"
-        tagline = "Our team has developed a medical passport such as medical history, etc. that can be used in the world, It called \"Medipass\".  As a core function, I collects a lot of medicine data and classifies it automatically by language processing, hears symptoms using VoiceUI from a smartphone such as Android, then automatically send the diagnostic result to the appropriate hospital in the neighborhood"
+        tagline = "awards/sbcloud-2016.md"
 # 賞の名称Championship award at SB Cloud Hackathon 2016
 # 受賞日2016年7月  授与組織SoftBank
 
         [[params.awards.list]]
         title = "Second place at AngelHack JP 2016"
         url = "https://givery.co.jp/press/821/"
-        tagline = "Our team has developed an automatic photo organizing application. It is an application that makes it easy to see the album by analyzing the image of the photo and performing appropriate foldering. For core functions, we perform machine learning and Vector Search using NGT, and we conduct similarity comparison via API."
+        tagline = "awards/angelhack-2016.md"
 # 賞の名称Second place at AngelHack JP 2016
 # 受賞日2016年5月  授与組織AngelHack
 
         [[params.awards.list]]
         title = "Technical award at HackU from Yahoo! Japan 2014"
         url = "https://hacku.yahoo.co.jp/tokai2014/"
-        tagline = "I participated in Hackathon for students sponsored by Yahoo Japan and received technology prize. Our team has developed an SNS using bidirectional miscommunication called Ripple using Android and bluetooth technology"
+        tagline = "awards/hacku-2014.md"
 # 賞の名称Technical award at HackU
 # 受賞日2017年1月  授与組織Yahoo! JAPAN
 

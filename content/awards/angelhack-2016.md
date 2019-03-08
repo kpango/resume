@@ -1,0 +1,1 @@
+Our team has developed an automatic photo organizing application. It is an application that makes it easy to see the album by analyzing the image of the photo and performing appropriate foldering. For core functions, we perform machine learning and Vector Search using NGT, and we conduct similarity comparison via API.
