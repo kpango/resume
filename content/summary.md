@@ -1,3 +1,3 @@
-I have numerous responsibilities regarding the development and system architecture using a wide range of technologies at Yahoo Japan’s SWAT.  
+I have numerous responsibilities regarding the development and system architecture using a wide range of technologies at Yahoo Japan’s Tech Lab.  
 My biggest strength is that I'm a fast learner and can easily use new technology. Even if I get assigned to a new project and have to use unfamiliar technology, I can take over the leadership of this project in less than one week.  
-I’m especially proficient in golang and besides a lot of experience with different programming languages, I also have a profound knowledge starting from infrastructures such as Kubernetes, OpenStack, to vector search engines like NGT.
+I’m especially proficient in golang and besides a lot of experience with different programming languages, I also have a profound knowledge starting from infrastructures such as Kubernetes, OpenStack, to vector search engines like Vald.

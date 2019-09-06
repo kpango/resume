@@ -30,7 +30,7 @@ disable404 = true
     # Profile section
     [params.profile]
         name = "Yusuke Kato"
-        tagline = "CTO Office SWAT Section (Senior Lead Developer)"
+        tagline = "TechLab (Lead Resarcher of Vector Search)"
         avatar = "profile.png"
 
     # Contact section
