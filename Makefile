@@ -1,6 +1,6 @@
 .PHONY: run deploy submod
 
-all: deploy subup
+all: subup deploy
 	git add -A;git commit -m fix;git push
 
 
