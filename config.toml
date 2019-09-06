@@ -30,7 +30,7 @@ disable404 = true
     # Profile section
     [params.profile]
         name = "Yusuke Kato"
-        tagline = "TechLab  (Lead Resarcher of Vector Search)"
+        tagline = "Tech Lab  (Lead Resarcher of Vector Search)"
         avatar = "profile.png"
 
     # Contact section
@@ -190,9 +190,29 @@ disable404 = true
         tagline = "projects/gache.md"
 
         [[params.projects.list]]
+        title = "Vald"
+        url = "https://github.com/vdaas/vald"
+        tagline = "projects/vald.md"
+
+        [[params.projects.list]]
         title = "Garm"
         url = "https://github.com/yahoojapan/garm"
         tagline = "projects/garm.md"
+
+        [[params.projects.list]]
+        title = "Athenz Authorizer"
+        url = "https://github.com/yahoojapan/athenz-authorizer"
+        tagline = "projects/athenz-authorizer.md"
+
+        [[params.projects.list]]
+        title = "Athenz Authorization Proxy"
+        url = "https://github.com/yahoojapan/authorization-proxy"
+        tagline = "projects/authorization-proxy.md"
+
+        [[params.projects.list]]
+        title = "Athenz Client Sidecar"
+        url = "https://github.com/yahoojapan/athenz-client-sidecar"
+        tagline = "projects/athenz-client-sidecar.md"
 
         [[params.projects.list]]
         title = "NGTD"
@@ -220,30 +240,21 @@ disable404 = true
         title = "Championship award at PwC's Technology Hackathon 2017"
         url = "https://www.facebook.com/PwCJapan/posts/1234088506626798"
         tagline = "awards/pwc-2017.md"
-# Championship award at PwC's Technology Hackathon 2017
-# 受賞日2017年1月  授与組織PwC
 
         [[params.awards.list]]
         title = "Championship award at SB Cloud Hackathon 2016"
         url = "https://www.facebook.com/SBCloud/photos/a.1092206347516664/1108994632504502/?type=1&theater"
         tagline = "awards/sbcloud-2016.md"
-# 賞の名称Championship award at SB Cloud Hackathon 2016
-# 受賞日2016年7月  授与組織SoftBank
 
         [[params.awards.list]]
         title = "Second place at AngelHack JP 2016"
         url = "https://givery.co.jp/press/821/"
         tagline = "awards/angelhack-2016.md"
-# 賞の名称Second place at AngelHack JP 2016
-# 受賞日2016年5月  授与組織AngelHack
 
         [[params.awards.list]]
         title = "Technical award at HackU from Yahoo! Japan 2014"
         url = "https://hacku.yahoo.co.jp/tokai2014/"
         tagline = "awards/hacku-2014.md"
-# 賞の名称Technical award at HackU
-# 受賞日2017年1月  授与組織Yahoo! JAPAN
-
 
     # Skills section
     [params.skills]
@@ -253,7 +264,7 @@ disable404 = true
 
         [[params.skills.list]]
         skill = "Golang"
-        level = "90%"
+        level = "95%"
 
         [[params.skills.list]]
         skill = "Java"
