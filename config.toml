@@ -137,8 +137,14 @@ disable404 = true
         title = "Experience"
 
         [[params.jobs.list]]
+        position = "Tech Lab"
+        dates = "2019 - Present"
+        company = "Yahoo Japan Corporation"
+        details = "experiences/yahoo-techlab.md"
+
+        [[params.jobs.list]]
         position = "SWAT (Senior Lead Developer)"
-        dates = "2016 - Present"
+        dates = "2016 - 2019"
         company = "Yahoo Japan Corporation"
         details = "experiences/yahoo-swat.md"
 
