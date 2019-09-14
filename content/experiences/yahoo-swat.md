@@ -9,7 +9,7 @@ I have a lot of experiences about cloud environment and security and data analys
 - ***Service Authorization Mesh Sidecar   
 Chief Architect & Founder (Go/Kubernetes/CloudFundry/OpenStack)***	2018/11~2019/7  
 In Yahoo! JAPAN we uses Athenz as a SSoT RBAC source for service authorization and authentication.  
-It was difficult for internal engineers to implement authorization logic using Athenz, and in most cases it took 3 days to a week to implement, and it was left to the engineers to decide whether to implement Athenz.  
+It was difficult for internal engineers to implement authorization logic using Athenz, and in most cases it took 3 days to implement, and it was left to the engineers to decide whether to implement Athenz.  
 So, I thought creating a transparent authorization proxy that operates like ServiceMesh in the cloud environment.  
 I implemented it in a month, and I published it to our internal engineers.  
 As a result of it, internal engineers can deploy authorization functionality in 30 minutes and security certificates are managed by mesh sidecar.  
