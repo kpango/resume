@@ -102,7 +102,7 @@ disable404 = true
         title = "Interests"
 
         [[params.interests.list]]
-        interest = "Building a Network"
+        interest = "Building Home Network"
 
         [[params.interests.list]]
         interest = "Programming"
@@ -117,7 +117,7 @@ disable404 = true
         interest = "Playing Badminton"
 
         [[params.interests.list]]
-        interest = "Watchin Movies"
+        interest = "Watching Movies"
 
 # Main body sections
 
@@ -222,7 +222,7 @@ disable404 = true
         [[params.projects.list]]
         title = "gongt"
         url = "https://github.com/yahoojapan/gongt"
-        tagline = "projects/ngtd.md"
+        tagline = "projects/gongt.md"
 
         [[params.projects.list]]
         title = "Gimbal"
