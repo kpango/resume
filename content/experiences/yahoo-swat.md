@@ -7,7 +7,7 @@ I supported new In-house centralized customer service platform team as an archit
 I have a lot of experiences about cloud environment and security and data analysis, so I gave a lot of advice about it.  
 
 - ***Service Authorization Mesh Sidecar   
-Chief Architect & Founder (Go/Kubernetes/CloudFundry/OpenStack)***	2018/11~2019/7  
+Chief Architect & Founder (Go/Kubernetes/CloudFoundry/OpenStack)***	2018/11~2019/7  
 In Yahoo! JAPAN we uses Athenz as a SSoT RBAC source for service authorization and authentication.  
 It was difficult for internal engineers to implement authorization logic using Athenz, and in most cases it took 3 days to implement, and it was left to the engineers to decide whether to implement Athenz.  
 So, I thought creating a transparent authorization proxy that operates like ServiceMesh in the cloud environment.  
@@ -30,12 +30,12 @@ Frontend Engineer (Vue.js/Nuxt.js)***	2017/12~2018/2
 s a part of a large-scale project regarding of E-Book Japan Corporation (a subsidiary of Yahoo! JAPAN), I developed the web frontend of the ebook store mainly writing in vue.js, based on atomic design.  
 
 - ***In-house A/B Testing Platform   
-Engineer & Chief Architect (Go/C++/CloudFundry)***	2017/10~2018/2  
+Engineer & Chief Architect (Go/C++/CloudFoundry)***	2017/10~2018/2  
 I designed and developed a platform for A/B testing which is still used internally by Yahoo! JAPAN today.  The server architecture that I designed can withstand a minimum of 80000 req/sec in micro service architecture.   
-The software is written in Golang and running on CloudFundry.  The internal algorithm provided a high-speed and flexible A/B testing platform for users using [murmur3](https://github.com/kpango/murmur3) .
+The software is written in Golang and running on CloudFoundry.  The internal algorithm provided a high-speed and flexible A/B testing platform for users using [murmur3](https://github.com/kpango/murmur3) .
 
 - ***Yahoo! JAPAN Premium Member Advertising Platform   
-Engineer & Chief Architect (Go/CloudFundry)***	2017/5~2017/7  
+Engineer & Chief Architect (Go/CloudFoundry)***	2017/5~2017/7  
 I have developed and designed an advertising platform for Yahoo! JAPAN's premium members.  
 In the advertisement distribution, I was required to construct the plafrom with low-latency and high-speed delivery algorithm.  Also we a lock-free Concurrent Map for speed. I created the entire architect and microcomponents from scratch
 
