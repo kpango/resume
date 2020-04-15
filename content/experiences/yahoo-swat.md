@@ -4,30 +4,30 @@ The details of the key projects mentioned below.
 - ***In-house Centralized Customer Services Platform   
 Architectural Adviser***	2019/6~2019/8  
 I supported the new In-house centralized customer service platform team as an architectural adviser, and we already have over 200 CS tools in our company. We can not improve CS quality. We can't analyze CS data across each CS platform, so we need a new CS platform that integrates the full functionality of the current cs system. We have to care about CS data security and analytical data structure and data flow.  
-I have many experiences about the cloud environment and security and data analysis, so I gave much advice about it.  
+I have many experiences with the cloud environment and security and data analysis, so I gave much advice about it.  
 
 - ***Service Authorization Mesh Sidecar   
 Chief Architect & Founder (Go/Kubernetes/CloudFoundry/OpenStack)***	2018/11~2019/7  
-In Yahoo! JAPAN, we use Athenz as an SSoT RBAC source for service authorisation and authentication.  
-It was difficult for internal engineers to implement authorisation logic using Athenz. In most cases, it took three days to implement, and it was left to the engineers to decide whether to implement Athenz.  
-So, I thought to create a transparent authorisation proxy that operates like ServiceMesh in the cloud environment.  
+In Yahoo! JAPAN, we use Athenz as an SSoT RBAC source for service authorization and authentication.  
+It was difficult for internal engineers to implement authorization logic using Athenz. In most cases, it took three days to implement, and it was left to the engineers to decide whether to implement Athenz.  
+So, I thought of creating a transparent authorization proxy that operates like ServiceMesh in the cloud environment.  
 I implemented it in a month, and I published it to our internal engineers.  
-As a result, the in-house engineer can deploy the authorisation function in 30 minutes, and the mesh sidecar manages the security certificate.  
+As a result, the in-house engineer can deploy the authorization function in 30 minutes, and the mesh sidecar manages the security certificate.  
 It's an open-source project written in golang.  
 
 - ***Kubernetes as a Service Authorization Platform Garm   
 Engineer & Chief Architect (Go/Kubernetes)***	2018/4~2018/11  
-I have designed and developed the Kubernetes Authorization Platform, which is called Garm. Base on the concept of SSoT, Garm can be integrated with Athenz and Kubernetes webhook authorisation. That enables a lot of Kubernetes clusters authentication management, and Yahoo! JAPAN currently manages over 450 Kubernetes clusters by using Garm. Garm is now running on all Kubernetes clusters in Yahoo! JAPAN.  
+I have designed and developed the Kubernetes Authorization Platform, which is called Garm. Base on the concept of SSoT, Garm can be integrated with Athenz and Kubernetes webhook authorization. That enables a lot of Kubernetes clusters authentication management, and Yahoo! JAPAN currently manages over 450 Kubernetes clusters by using Garm. Garm is now running on all Kubernetes clusters in Yahoo! JAPAN.  
 It's an open-source project written in golang.  
 
 - ***Approximate Neighborhood Graph Tree Vector Search Engine NGTD/Gongt   
  Engineer & Quality Engineer (Go/C++)***	2017/10~2018/4  
-I developed a general-purpose dense vector search engine called "NGTD". User can register, search and delete vectors in NGTD via RESTful API and gRPC at the same time, user can also quickly search for KNN vectors.  
-It can use in a wide range of fields such as similar image retrieval and advertisement recommendation in Yahoo! JAPAN. NGTD is open-source project written in golang.  
+I developed a general-purpose dense vector search engine called "NGTD". Users can register, search and delete vectors in NGTD via RESTful API and gRPC at the same time, The user can also quickly search for KNN vectors.  
+It can use in a wide range of fields such as similar image retrieval and advertisement recommendation in Yahoo! JAPAN. NGTD is an open-source project written in golang.  
 
 - ***Yahoo! JAPAN Online EBook Store   
 Frontend Engineer (Vue.js/Nuxt.js)***	2017/12~2018/2  
-As a part of a large-scale project regarding of E-Book Japan Corporation (a subsidiary of Yahoo! JAPAN), I developed the web frontend of the ebook store mainly writing in vue.js, based on atomic design.  
+As a part of a large-scale project regarding E-Book Japan Corporation (a subsidiary of Yahoo! JAPAN). I developed the web frontend of the ebook store, writing in vue.js, based on atomic design.  
 
 - ***In-house A/B Testing Platform   
 Engineer & Chief Architect (Go/C++/CloudFoundry)***	2017/10~2018/2  
@@ -37,7 +37,7 @@ The software is written in Golang and running on CloudFoundry. The internal algo
 - ***Yahoo! JAPAN Premium Member Advertising Platform   
 Engineer & Chief Architect (Go/CloudFoundry)***	2017/5~2017/7  
 I have developed and designed an advertising platform for Yahoo! JAPAN's premium members.  
-In the advertisement distribution, I developed the platform with low-latency and high-speed delivery algorithm. Also, we use a lock-free Concurrent Map for speed. I created the entire architect and microcomponents from scratch.  
+In the advertisement distribution, I developed the platform with low-latency and high-speed delivery algorithms. Also, we use a lock-free Concurrent Map for speed. I created the entire architect and microcomponents from scratch..  
 
 - ***Yahoo! JAPAN Auction   
 Android Engineer (Kotlin/Java)***	2017/3~2017/9  
@@ -50,4 +50,4 @@ In Yahoo! JAPAN's user ID platform, I was in charge of adding the function of a 
 - ***Yahoo! JAPAN Mail   
 Backend Engineer (Java/Hbase/Zookeeper)***	2016/4~2017/1  
 Yahoo! Mail's backend engineering is the first project I joined SWAT.  
-There, I was developing/localising the storage layer of the Yahoo! JAPAN Mail platform. At that team, I also worked as a scrum master.  
+There, I was developing/localizing the storage layer of the Yahoo! JAPAN Mail platform. At that team, I also worked as a scrum master.  
