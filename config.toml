@@ -30,7 +30,7 @@ disable404 = true
     # Profile section
     [params.profile]
         name = "Yusuke Kato"
-        tagline = "Tech Lab  (Lead Researcher of Vector Search)"
+        tagline = "Technology Incubation (Lead Researcher of Vector Search)"
         avatar = "profile.png"
 
     # Contact section
@@ -137,7 +137,7 @@ disable404 = true
         title = "Experience"
 
         [[params.jobs.list]]
-        position = "Tech Lab"
+        position = "Technology Incubation"
         dates = "2019/8 - Present"
         company = "Yahoo Japan Corporation"
         details = "experiences/yahoo-techlab.md"

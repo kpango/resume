@@ -1,9 +1,9 @@
-Tech Lab is the R&D department. We work closely with our services and provide new technology to services.  
+Technology Incubation is the R&D department. We work closely with our services and provide new technology to services.  
 Currently, we work on video analysis & advertisement optimization by image analysis & shopping item recommendation by using image feature vector analysis.  
 
 
-- ***TechLab Technology Product Owner***	2020/4~present  
-Responsible for managing TechLab's advanced technology areas.
+- ***Product Owner of Technology Area***	2020/4~present  
+Responsible for managing Technology Incubation team's advanced technology areas.
 Mainly manages three product, vector search technology (Vald), anomaly detection for infrastructure, and in-house NewSQL areas.  
 
 - ***Next Generation Vector Search Engine Platform  Vald  
