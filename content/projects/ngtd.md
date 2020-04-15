@@ -1,1 +1,1 @@
-NGTD is a VectorDatabase that provides approximate neighborhood search of dense vectors via REST / gRPC and is used as a core function of similar image search and recommendation engine of Yahoo Japan.
+NGTD is a VectorDatabase that provides approximately neighbourhood search of dense vectors via REST / gRPC. was used as a core function of similar image search and recommendation engine of Yahoo Japan. now NGTD was replaced to Vald.

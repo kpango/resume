@@ -30,7 +30,7 @@ disable404 = true
     # Profile section
     [params.profile]
         name = "Yusuke Kato"
-        tagline = "Tech Lab  (Lead Resarcher of Vector Search)"
+        tagline = "Tech Lab  (Lead Researcher of Vector Search)"
         avatar = "profile.png"
 
     # Contact section
@@ -108,7 +108,7 @@ disable404 = true
         interest = "Programming"
 
         [[params.interests.list]]
-        interest = "Traveling"
+        interest = "Travelling"
 
         [[params.interests.list]]
         interest = "Cooking"
