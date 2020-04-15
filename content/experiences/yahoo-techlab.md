@@ -4,7 +4,7 @@ Currently, we work on video analysis & advertisement optimization by image analy
 
 - ***TechLab Technology Product Owner***	2020/4~present  
 Responsible for managing TechLab's advanced technology areas.
-Mainly manages vector search technology, anomaly detection, and in-house NoSQL areas.  
+Mainly manages three product, vector search technology (Vald), anomaly detection for infrastructure, and in-house NewSQL areas.  
 
 - ***Next Generation Vector Search Engine Platform  
 Founder & Lead Developer (Go/C++/Python/Kubernetes/OpenStack)***	2019/8~present  
