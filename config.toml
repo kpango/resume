@@ -237,6 +237,11 @@ disable404 = true
         intro = "Awards such as Hackathon or Contest are below."
 
         [[params.awards.list]]
+        title = "IPSJ Industrial Achievement Award 2019"
+        url = "https://www.ipsj.or.jp/english/organization/aboutipsj/award/gyoseki.html"
+        tagline = "awards/ipsj-iaa-2019.md"
+
+        [[params.awards.list]]
         title = "Championship award at PwC's Technology Hackathon 2017"
         url = "https://www.facebook.com/PwCJapan/posts/1234088506626798"
         tagline = "awards/pwc-2017.md"
