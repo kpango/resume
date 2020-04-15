@@ -22,7 +22,7 @@ disable404 = true
     # The original template comes with 6 colour schemes. You may choose styles below.
     # "styles.css", "styles-2.css", "styles-3.css", "styles-4.css", "styles-5.css", "styles-6.css"
     # are available. Also the source LESS files are included so
-    # it’s quick and easy to change the styling and colour scheme.
+    # it's quick and easy to change the styling and colour scheme.
     styles = "styles-6.css"
 
 # Sidebar sections
@@ -108,7 +108,7 @@ disable404 = true
         interest = "Programming"
 
         [[params.interests.list]]
-        interest = "Travelling"
+        interest = "Traveling"
 
         [[params.interests.list]]
         interest = "Cooking"

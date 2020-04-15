@@ -1,9 +1,9 @@
-SWAT is a task force team gathering the most skilful internal engineers. SWAT participates in various projects inside the company to resolve different internal technical problems.  
+SWAT is a task force team gathering the most skillful internal engineers. SWAT participates in various projects inside the company to resolve different internal technical problems.  
 The details of the key projects mentioned below.  
 
 - ***In-house Centralized Customer Services Platform   
 Architectural Adviser***	2019/6~2019/8  
-I supported the new In-house centralised customer service platform team as an architectural adviser, and we already have over 200 CS tools in our company. We can not improve CS quality. We can't analyse CS data across each CS platform, so we need a new CS platform, that integrates the full functionality of current cs system. We have to care about CS data security and analytical data structure and data flow.  
+I supported the new In-house centralized customer service platform team as an architectural adviser, and we already have over 200 CS tools in our company. We can not improve CS quality. We can't analyze CS data across each CS platform, so we need a new CS platform that integrates the full functionality of the current cs system. We have to care about CS data security and analytical data structure and data flow.  
 I have many experiences about the cloud environment and security and data analysis, so I gave much advice about it.  
 
 - ***Service Authorization Mesh Sidecar   
@@ -13,17 +13,17 @@ It was difficult for internal engineers to implement authorisation logic using A
 So, I thought to create a transparent authorisation proxy that operates like ServiceMesh in the cloud environment.  
 I implemented it in a month, and I published it to our internal engineers.  
 As a result, the in-house engineer can deploy the authorisation function in 30 minutes, and the mesh sidecar manages the security certificate.  
-It's open-source projet written in golang.  
+It's an open-source project written in golang.  
 
 - ***Kubernetes as a Service Authorization Platform Garm   
 Engineer & Chief Architect (Go/Kubernetes)***	2018/4~2018/11  
 I have designed and developed the Kubernetes Authorization Platform, which is called Garm. Base on the concept of SSoT, Garm can be integrated with Athenz and Kubernetes webhook authorisation. That enables a lot of Kubernetes clusters authentication management, and Yahoo! JAPAN currently manages over 450 Kubernetes clusters by using Garm. Garm is now running on all Kubernetes clusters in Yahoo! JAPAN.  
-It's open-source projet written in golang.  
+It's an open-source project written in golang.  
 
 - ***Approximate Neighborhood Graph Tree Vector Search Engine NGTD/Gongt   
  Engineer & Quality Engineer (Go/C++)***	2017/10~2018/4  
 I developed a general-purpose dense vector search engine called "NGTD". User can register, search and delete vectors in NGTD via RESTful API and gRPC at the same time, user can also quickly search for KNN vectors.  
-It can use in a wide range of fields such as similar image retrieval and advertisement recommendation in Yahoo! JAPAN. NGTD is open-source projet written in golang.  
+It can use in a wide range of fields such as similar image retrieval and advertisement recommendation in Yahoo! JAPAN. NGTD is open-source project written in golang.  
 
 - ***Yahoo! JAPAN Online EBook Store   
 Frontend Engineer (Vue.js/Nuxt.js)***	2017/12~2018/2  
