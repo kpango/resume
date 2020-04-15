@@ -5,7 +5,7 @@ all: subup deploy
 
 
 run:
-	hugo server
+	hugo server -p 8081
 
 deploy:
 	hugo

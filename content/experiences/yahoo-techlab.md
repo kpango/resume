@@ -1,5 +1,5 @@
 Tech Lab is the R&D department. We work closely with our services and provide new technology to services.  
-Currently, we work on video analysis & advertisement optimisation by image analysis & shopping item recommendation by using image feature vector analysis.  
+Currently, we work on video analysis & advertisement optimization by image analysis & shopping item recommendation by using image feature vector analysis.  
 
 - ***Next Generation Vector Search Engine Platform  
 Founder & Lead Developer (Go/C++/Python/Kubernetes/OpenStack)***	2019/8~present  
