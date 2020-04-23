@@ -3,7 +3,7 @@ The details of the key projects are mentioned below.
 
 - ***In-house Centralized Customer Services Platform   
 Architectural Adviser***	2019/6~2019/8  
-I supported the new In-house centralized customer service platform team as an architectural adviser, and we already have over 200 CS tools in our company. It was not possible for us to improve CS quality. We were not able to analyze CS data across each CS platform, thus we needed a new CS platform that integrates the full functionality of the current cs system. We were in charge of taking care of CS data security and analytical data structure and data flow.  
+I supported the new In-house centralized customer service platform team as an architectural adviser, and we already have over 200 CS tools in our company. It was not possible for us to improve CS quality. We cannot analyze CS data across each CS platform. Thus we needed a new CS platform that integrates the full functionality of the current CS system. We were in charge of taking care of CS data security and analytical data structure and data flow.  
 I have many experiences with the cloud environment and security and data analysis, and I provided numerous advice and close support for the platform.  
 
 - ***Service Authorization Mesh Sidecar   
@@ -17,12 +17,12 @@ It's an open-source project written in golang.
 
 - ***Kubernetes as a Service Authorization Platform Garm   
 Engineer & Chief Architect (Go/Kubernetes)***	2018/4~2018/11  
-I have designed and developed the Kubernetes Authorization Platform, which is called Garm. Base on the concept of SSoT, Garm can be integrated with Athenz and Kubernetes webhook authorization. This enables a lot of Kubernetes clusters authentication management, and Yahoo! JAPAN currently manages over 450 Kubernetes clusters by using Garm. Garm is now running on all Kubernetes clusters in Yahoo! JAPAN.  
+I have designed and developed the Kubernetes authorization platform, which is called Garm. Base on the concept of SSoT, Garm can be integrated with Athenz and Kubernetes webhook authorization. This enables a lot of Kubernetes clusters authentication management, and Yahoo! JAPAN currently manages over 450 Kubernetes clusters by using Garm. Garm is now running on all Kubernetes clusters in Yahoo! JAPAN.  
 It's an open-source project written in golang.  
 
 - ***Approximate Neighborhood Graph Tree Vector Search Engine NGTD/Gongt   
  Engineer & Quality Engineer (Go/C++)***	2017/10~2018/4  
-I developed a general-purpose dense vector search engine called "NGTD". Users can register, search and delete vectors in NGTD via RESTful API and gRPC at the same time, The user can also quickly search for KNN vectors.  
+I developed a general-purpose dense vector search engine called "NGTD". Users can register, search, and delete vectors in NGTD via RESTful API and gRPC at the same time, and The user can also quickly search for KNN vectors.  
 It can be used in a wide range of fields such as similar image retrieval and advertisement recommendation in Yahoo! JAPAN. NGTD is an open-source project written in golang.  
 
 - ***Yahoo! JAPAN Online EBook Store   
@@ -31,13 +31,13 @@ As a part of a large-scale project regarding E-Book Japan Corporation (a subsidi
 
 - ***In-house A/B Testing Platform   
 Engineer & Chief Architect (Go/C++/CloudFoundry)***	2017/10~2018/2  
-I designed and developed a platform for A/B testing which is still used internally by Yahoo! JAPAN today. The server architecture that I designed can withstand a minimum of 80000 req/sec in a microservice architecture.  
+I designed and developed a platform for A/B testing, which is still used internally by Yahoo! JAPAN today. The server architecture that I designed can withstand a minimum of 80000 req/sec in a microservice architecture.  
 The software is written in Golang and running on CloudFoundry. The internal algorithm provided a high-speed and flexible A/B testing platform for users using [murmur3](https://github.com/kpango/murmur3).  
 
 - ***Yahoo! JAPAN Premium Member Advertising Platform   
 Engineer & Chief Architect (Go/CloudFoundry)***	2017/5~2017/7  
 I have developed and designed an advertising platform for Yahoo! JAPAN's premium members.  
-In the advertisement distribution, I developed the platform with low-latency and high-speed delivery algorithms. Also, we use a lock-free Concurrent Map for speed. I created the entire architecture and microcomponents from scratch..  
+In the advertisement distribution, I developed the platform with low-latency and high-speed delivery algorithms. Also, we use a lock-free Concurrent Map for speed. I created the entire architecture and microcomponents from scratch.  
 
 - ***Yahoo! JAPAN Auction   
 Android Engineer (Kotlin/Java)***	2017/3~2017/9  

@@ -1,1 +1,1 @@
-I participated in Hackathon for students sponsored by Yahoo Japan and received a technology prize. Our team has developed an SNS using a two-way crossing mesh network called Ripple it uses Android and Bluetooth technology.  
+I participated in Hackathon for students sponsored by Yahoo Japan and received a technology prize. Our team has developed an SNS using a two-way crossing mesh network called Ripple. It uses Android and Bluetooth technology.  
