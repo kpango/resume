@@ -1,1 +1,1 @@
-As an internship, I gained experience in the development of EC site backend systems, in-house Q&A systems, and PoS systems. Furthermore, I also got the opportunity to be the internship team leader for the Q&A system and learned to lead a team.  
+As an intern, I gained experience in the development of EC site backend systems, in-house Q&A systems, and PoS systems. Furthermore, I also got the opportunity to be the internship team leader for the Q&A system and learned to lead a team.  
