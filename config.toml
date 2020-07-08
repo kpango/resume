@@ -40,8 +40,8 @@ disable404 = true
         [[params.contact.list]]
         class = "email"
         icon = "fa-envelope"
-        url = "mailto: i.can.feel.gravity@gmail.com"
-        title = "i.can.feel.gravity@gmail.com"
+        url = "mailto: kpango@vdaas.org"
+        title = "kpango@vdaas.org"
 
         [[params.contact.list]]
         class = "phone"
