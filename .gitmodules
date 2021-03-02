@@ -1,8 +1,8 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/kpango/kpango.github.io
-	branch = master
 [submodule "themes/hugo-orbit-theme"]
 	path = themes/hugo-orbit-theme
 	url = https://github.com/kpango/hugo-orbit-theme
+	branch = master
+[submodule "public"]
+	path = public
+	url = https://github.com/kpango/kpango.github.io
 	branch = master
