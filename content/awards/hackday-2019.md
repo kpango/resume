@@ -1,0 +1,1 @@
+Our team has developed an application that allows users to try on kimonos without having to wear them by detecting the skeleton by the deep-learning of a person and the skeleton of the kimono's image and synthesizing the images.
