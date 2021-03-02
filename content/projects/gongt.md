@@ -1,1 +1,1 @@
-Gongt is golang SDK for ngt core
+Gongt is Go SDK for ngt core

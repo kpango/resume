@@ -1,2 +1,2 @@
 The Go language technical support team develops internal Go language libraries, creates model cases, maintains CI / CD for Go, and so on.  
-I regularly lead study sessions to teach the other engineers about the Go language. In these workshops, all attendees from beginners to intermediates can focus on learning golang or getting better at it. At the largest study meeting, more than 200 in-house engineers attended, including myself.  
+I regularly lead study sessions to teach the other engineers about the Go language. In these workshops, all attendees from beginners to intermediates can focus on learning Go or getting better at it. At the largest study meeting, more than 200 in-house engineers attended, including myself.  

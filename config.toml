@@ -268,7 +268,7 @@ disable404 = true
         title = "Skills & Proficiency"
 
         [[params.skills.list]]
-        skill = "Golang"
+        skill = "Go"
         level = "95%"
 
         [[params.skills.list]]

@@ -13,17 +13,17 @@ It was difficult for internal engineers to implement authorization logic using A
 So, I thought of creating a transparent authorization proxy that operates like ServiceMesh in the cloud environment.  
 I implemented it in a month, and I published it to our internal engineers.  
 As a result, the in-house engineer can deploy the authorization function in 30 minutes, and the mesh sidecar manages the security certificate.  
-It's an open-source project written in golang.  
+It's an open-source project written in Go.  
 
 - ***Kubernetes as a Service Authorization Platform Garm   
 Engineer & Chief Architect (Go/Kubernetes)***	2018/4~2018/11  
 I have designed and developed the Kubernetes authorization platform, which is called Garm. Base on the concept of SSoT, Garm can be integrated with Athenz and Kubernetes webhook authorization. This enables a lot of Kubernetes clusters authentication management, and Yahoo! JAPAN currently manages over 450 Kubernetes clusters by using Garm. Garm is now running on all Kubernetes clusters in Yahoo! JAPAN.  
-It's an open-source project written in golang.  
+It's an open-source project written in Go.  
 
 - ***Approximate Neighborhood Graph Tree Vector Search Engine NGTD/Gongt   
  Engineer & Quality Engineer (Go/C++)***	2017/10~2018/4  
 I developed a general-purpose dense vector search engine called "NGTD". Users can register, search, and delete vectors in NGTD via RESTful API and gRPC at the same time, and The user can also quickly search for KNN vectors.  
-It can be used in a wide range of fields such as similar image retrieval and advertisement recommendation in Yahoo! JAPAN. NGTD is an open-source project written in golang.  
+It can be used in a wide range of fields such as similar image retrieval and advertisement recommendation in Yahoo! JAPAN. NGTD is an open-source project written in Go.  
 
 - ***Yahoo! JAPAN Online EBook Store   
 Frontend Engineer (Vue.js/Nuxt.js)***	2017/12~2018/2  
@@ -32,7 +32,7 @@ As a part of a large-scale project regarding E-Book Japan Corporation (a subsidi
 - ***In-house A/B Testing Platform   
 Engineer & Chief Architect (Go/C++/CloudFoundry)***	2017/10~2018/2  
 I designed and developed a platform for A/B testing, which is still used internally by Yahoo! JAPAN today. The server architecture that I designed can withstand a minimum of 80000 req/sec in a microservice architecture.  
-The software is written in Golang and running on CloudFoundry. The internal algorithm provided a high-speed and flexible A/B testing platform for users using [murmur3](https://github.com/kpango/murmur3).  
+The software is written in Go and running on CloudFoundry. The internal algorithm provided a high-speed and flexible A/B testing platform for users using [murmur3](https://github.com/kpango/murmur3).  
 
 - ***Yahoo! JAPAN Premium Member Advertising Platform   
 Engineer & Chief Architect (Go/CloudFoundry)***	2017/5~2017/7  

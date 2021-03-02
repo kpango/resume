@@ -25,7 +25,7 @@ Garm is an API for a Kubernetes authorization webhook that integrates with Athen
 
 Yahoo Japan uses Garm and Kubernetes AccessReview Webhook to integrate and manage hundreds of large Kubernetes clusters based on the concept of SSoT.
 
-[Athenz Authorizer](https://github.com/yahoojapan/athenz-authorizer) - Athenz authorizer is a library for golang to manages the policies and certificate of Athenz, and provides authentication and authorization check logic.
+[Athenz Authorizer](https://github.com/yahoojapan/athenz-authorizer) - Athenz authorizer is a library for Go to manages the policies and certificate of Athenz, and provides authentication and authorization check logic.
 
 [Athenz Authorization Proxy](https://github.com/yahoojapan/authorization-proxy) -
 
@@ -37,7 +37,7 @@ It fetches the policies from yahoo's Athenz. And provide a reverse proxy interfa
 
 [NGTD](https://github.com/yahoojapan/ngtd) - NGTD is a VectorDatabase that provides approximately neighborhood search of dense vectors via REST / gRPC. was used as a core function of similar image search and recommendation engine of Yahoo Japan. now, NGTD will replace with Vald.
 
-[gongt](https://github.com/yahoojapan/gongt) - Gongt is golang SDK for ngt core
+[gongt](https://github.com/yahoojapan/gongt) - Gongt is Go SDK for ngt core
 
 [Gimbal](https://github.com/heptio/gimbal) - Heptio Gimbal is an ingress load-balancing platform capable of routing traffic to multiple Kubernetes and OpenStack clusters. Built by Heptio in partnership with Actapio & Yahoo Japan.
 
