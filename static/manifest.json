@@ -1,0 +1,21 @@
+{
+  "name": "Yusuke Kato Resume",
+  "short_name": "kpango resume",
+  "theme_color": "#ffffff",
+  "background_color": "#42a8c0",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "assets/images/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
